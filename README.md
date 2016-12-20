@@ -9,9 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
 git clone https://github.com/lemol/learning-redux
 cd learning-redux
+npm install
 ```
 
-## run
+## Run
 
 ```bash
 npm start
